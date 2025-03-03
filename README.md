@@ -20,7 +20,7 @@ Before running the code, please download the checkpoints from [Baidudisk](https:
 
     | ![](data/imagenet/org/n01770393_12386.JPEG) | ![](data/imagenet/bd/n01770393_12386_hidden.png) | ![](data/imagenet/bd/n01770393_12386_residual.png)
     |:--:| :--:| :--:| 
-    | Benign image | Backdoor image | Trigger |
+    | 原始图像 | 后门图像 | 触发器 |
 
 2. Runing `test.py` for testing benign and poisoned images.
     ```python
